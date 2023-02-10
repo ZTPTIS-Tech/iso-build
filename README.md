@@ -1,0 +1,2 @@
+# manjtptis
+Ztptis Manjaro
